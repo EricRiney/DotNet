@@ -1,0 +1,8 @@
+/Users/ericriner/Documents/Code/Sandbox/hwapp/bin/Debug/netcoreapp1.1/hwapp.deps.json
+/Users/ericriner/Documents/Code/Sandbox/hwapp/bin/Debug/netcoreapp1.1/hwapp.runtimeconfig.json
+/Users/ericriner/Documents/Code/Sandbox/hwapp/bin/Debug/netcoreapp1.1/hwapp.runtimeconfig.dev.json
+/Users/ericriner/Documents/Code/Sandbox/hwapp/bin/Debug/netcoreapp1.1/hwapp.dll
+/Users/ericriner/Documents/Code/Sandbox/hwapp/bin/Debug/netcoreapp1.1/hwapp.pdb
+/Users/ericriner/Documents/Code/Sandbox/hwapp/obj/Debug/netcoreapp1.1/hwapp.AssemblyInfo.cs
+/Users/ericriner/Documents/Code/Sandbox/hwapp/obj/Debug/netcoreapp1.1/hwapp.dll
+/Users/ericriner/Documents/Code/Sandbox/hwapp/obj/Debug/netcoreapp1.1/hwapp.pdb
